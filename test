@@ -1,2 +1,14 @@
 test
 This is a local test
+
+About SSH
+https://help.github.com/articles/about-ssh/
+
+git clone https://github.com/TD16/Py2018.git
+git add /DIR/TO/COMMIT
+git commit -m "COMMENT"
+git push
+git pull
+
+More
+git --help
